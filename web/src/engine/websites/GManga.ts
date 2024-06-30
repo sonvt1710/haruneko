@@ -1,5 +1,5 @@
 import { Tags } from '../Tags';
-import icon from './ScamberTraslator.webp';
+import icon from './GManga.webp';
 import { DecoratableMangaScraper } from '../providers/MangaPlugin';
 import * as Madara from './decorators/WordPressMadara';
 import * as Common from './decorators/Common';
@@ -12,7 +12,7 @@ import * as Common from './decorators/Common';
 export default class extends DecoratableMangaScraper {
 
     public constructor() {
-        super('scambertraslator', 'ScamberTraslator', 'https://visorscamber-scans.com', Tags.Media.Manhua, Tags.Media.Manhwa, Tags.Language.Spanish, Tags.Source.Scanlator);
+        super('gmanga', 'GManga', 'https://gmanga.site', Tags.Media.Manhwa, Tags.Media.Manhua, Tags.Language.Arabic, Tags.Source.Aggregator);
     }
 
     public override get Icon() {
