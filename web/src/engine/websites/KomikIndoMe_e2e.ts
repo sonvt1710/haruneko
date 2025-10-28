@@ -1,12 +1,12 @@
 import { TestFixture } from '../../../test/WebsitesFixture';
 
-new TestFixture( {
+new TestFixture({
     plugin: {
         id: 'komikindome',
         title: 'KomikIndoMe'
     },
     container: {
-        url: 'https://komikindo4.link/manga/secret-class/',
+        url: 'https://komikindo.vip/manga/secret-class/',
         id: '/manga/secret-class/',
         title: 'Secret Class'
     },

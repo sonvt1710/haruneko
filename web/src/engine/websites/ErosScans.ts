@@ -15,8 +15,8 @@ const workaroundPageScript = `ts_reader_control.getImages().map(link => new URL(
 @Common.ImageAjax()
 export default class extends DecoratableMangaScraper {
 
-    public constructor () {
-        super('erosscans', 'Eros Scans', 'https://eros-moon.xyz', Tags.Media.Manhwa, Tags.Media.Manhua, Tags.Language.English, Tags.Source.Scanlator, Tags.Accessibility.DomainRotation);
+    public constructor() {
+        super('erosscans', 'Eros Scans', 'https://erosxsun.xyz', Tags.Media.Manhwa, Tags.Media.Manhua, Tags.Language.English, Tags.Source.Scanlator, Tags.Accessibility.DomainRotation);
     }
 
     public override get Icon() {

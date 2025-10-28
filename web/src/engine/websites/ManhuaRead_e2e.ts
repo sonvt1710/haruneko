@@ -1,4 +1,4 @@
-﻿import { TestFixture } from '../../../test/WebsitesFixture';
+import { TestFixture } from '../../../test/WebsitesFixture';
 
 new TestFixture({
     plugin: {
@@ -6,7 +6,7 @@ new TestFixture({
         title: 'ManhuaRead'
     },
     container: {
-        url: 'https://manhuaread.com/manhua/unlovable-replacement/',
+        url: 'https://manhuaus.com/manhua/unlovable-replacement/',
         id: JSON.stringify({ post: '22450', slug: '/manhua/unlovable-replacement/' }),
         title: 'Unlovable Replacement'
     },
