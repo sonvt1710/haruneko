@@ -95,7 +95,6 @@ import '../NiveraFansub_e2e';
 import '../NocturneSummer_e2e';
 import '../NoIndexScan_e2e';
 import '../Opiatoon_e2e';
-import '../PawManga_e2e';
 import '../PinkSeaUnicorn_e2e';
 import '../PortalYaoi_e2e';
 import '../QManga_e2e';
