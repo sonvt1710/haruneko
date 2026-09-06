@@ -533,7 +533,6 @@ export { default as Orimanga } from './Orimanga';
 export { default as OurFeel } from './OurFeel';
 export { default as ParadoxScans } from './ParadoxScans';
 export { default as PatiManga } from './PatiManga';
-export { default as PawManga } from './PawManga';
 export { default as PelaTeam } from './PelaTeam';
 export { default as PerfScan } from './PerfScan';
 export { default as PhenixScans } from './PhenixScans';
