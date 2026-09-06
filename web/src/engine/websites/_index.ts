@@ -534,7 +534,6 @@ export { default as OurFeel } from './OurFeel';
 export { default as ParadoxScans } from './ParadoxScans';
 export { default as PatiManga } from './PatiManga';
 export { default as PelaTeam } from './PelaTeam';
-export { default as PerfScan } from './PerfScan';
 export { default as PhenixScans } from './PhenixScans';
 export { default as PhiliaScans } from './PhiliaScans';
 export { default as PhoenixScansIT } from './PhoenixScansIT';
